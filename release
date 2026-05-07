@@ -1,6 +1,6 @@
 {
   "app":"happ_desktop",
-  "filenum": 37,
+  "filenum": 38,
   "linux": {
     "block": [],
     "beta": {},
@@ -51,18 +51,18 @@
 	  "0.2.6"
     ],
     "beta": {
-      "version": "2.9.0",
-      "link": "https://github.com/Happ-proxy/happ-desktop/releases/download/2.9.0/setup-Happ.x64.exe",
-      "details": "-Inbound Authorization: Added authorization support for HTTP and SOCKS inbound protocols",
+      "version": "2.14.0",
+      "link": "https://github.com/Happ-proxy/happ-desktop/releases/download/2.14.0/setup-Happ.x64.exe",
+      "details": "-Update Xray core 26.3.27",
       "update": {
         "warnalways": "0.3.2",
         "updateonly": "1.0.1"
       }
     },
     "stable": {
-      "version": "2.9.0",
-      "link": "https://github.com/Happ-proxy/happ-desktop/releases/download/2.9.0/setup-Happ.x64.exe",
-      "details": "-Inbound Authorization: Added authorization support for HTTP and SOCKS inbound protocols",
+      "version": "2.14.0",
+      "link": "https://github.com/Happ-proxy/happ-desktop/releases/download/2.14.0/setup-Happ.x64.exe",
+      "details": "-Update Xray core 26.3.27",
       "update": {
         "warnalways": "0.3.2",
         "updateonly": "1.0.1"
